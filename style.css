@@ -1,0 +1,25 @@
+/*basic html tag*/
+body {
+    background-color: rgb(245, 241, 235);
+}
+
+/*basic html tag*/
+h1 {
+    color: #ab7dd6;
+}
+
+/*id*/
+#latin {
+    color: rgb(218, 23, 23);
+}
+
+/*class*/
+.szoveg {
+    font-style: italic;
+}
+
+iframe {
+    height: 800px;
+    width: 1200px;
+    border: none;
+}
