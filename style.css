@@ -1,16 +1,16 @@
 /*basic html tag*/
 body {
-    background-color: rgb(243, 235, 224);
+    background-color: antiquewhite;
 }
 
 /*basic html tag*/
 h1 {
-    color: #ab7dd6;
+    color: burlywood;
 }
 
 /*id*/
 #latin {
-    color: rgb(165, 15, 15);
+    color: beige;
 }
 
 /*class*/
@@ -18,8 +18,8 @@ h1 {
     font-style: italic;
 }
 
-iframe {
-    height: 800px;
-    width: 1200px;
+iframe { 
+    width: 1000px;
+    height: 800px
     border: none;
 }
